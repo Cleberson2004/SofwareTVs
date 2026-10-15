@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <ProjectReference Include="..\TvAgent.Domain\TvAgent.Domain.csproj" />
+    <ProjectReference Include="..\TvAgent.SessionHost\TvAgent.SessionHost.csproj" />
+  </ItemGroup>
+</Project>

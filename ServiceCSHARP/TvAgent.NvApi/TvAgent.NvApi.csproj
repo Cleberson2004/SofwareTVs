@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\TvAgent.Domain\TvAgent.Domain.csproj" />
+  </ItemGroup>
+</Project>
